@@ -1,0 +1,11 @@
+ var account = _context.userAccount.Where(u => u.Username == user.Username && u.Password == user.Password).FirstOrDefault();
+                if (account != null)
+                {
+                    HttpContext.Session.SetString("UserID", account.UserID.ToString());
+                    HttpContext.Session.SetString("Username", account.Username);
+                    return RedirectToAction("Welcome");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "USUARIO OCONTRASEÑA INCORRECTA.");
+                }

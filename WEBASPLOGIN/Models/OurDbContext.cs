@@ -14,6 +14,7 @@ namespace WEBASPLOGIN.Models
 
         }
         public DbSet<UserAccount> userAccount { get; set; }
+    
             
     }
 }

@@ -13,16 +13,7 @@
 
     <div class="col-md-4">
 
-        <form asp-action="EditImage" method="post">
-            <div class="form-group">
-                <div class="form-group">
-                    <label asp-for="Image" class="control-label"></label>
-                    <input asp-for="Image" type="file" id="files" class="form-control" />
-                    <span asp-validation-for="Image" class="text-danger"></span>
-                </div>
-            </div>
-
-        </form>
+        
 
         <form asp-action="Edit" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>

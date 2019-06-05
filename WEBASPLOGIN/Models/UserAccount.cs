@@ -42,8 +42,14 @@ namespace WEBASPLOGIN.Models
 
 
         //----------------------------------------------------
+
        
-        public byte[] Image { get; set; }
+            public byte[] Image { get; set; }
+        
+
+
+
+      
 
 
 

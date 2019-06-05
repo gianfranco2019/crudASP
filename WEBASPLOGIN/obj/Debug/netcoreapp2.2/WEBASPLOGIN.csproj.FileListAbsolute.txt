@@ -1,0 +1,66 @@
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.deps.json
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.runtimeconfig.json
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.Views.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.Views.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorAssemblyInfo.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorAssemblyInfo.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.TagHelpers.input.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.TagHelpers.output.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorCoreGenerate.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Home\Welcome.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorTargetAssemblyInfo.cs
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.Views.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.dll
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.pdb
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Nueva carpeta\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorAssemblyInfo.cache
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorAssemblyInfo.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.TagHelpers.input.cache
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.TagHelpers.output.cache
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorCoreGenerate.cache
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Login\Login.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Details.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Profile\Edit.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\UserAccounts\Create.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\UserAccounts\Index.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorTargetAssemblyInfo.cache
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.RazorTargetAssemblyInfo.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.dll
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.pdb
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.deps.json
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.runtimeconfig.json
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.dll
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.pdb
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.Views.dll
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\bin\Debug\netcoreapp2.2\WEBASPLOGIN.Views.pdb
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.Views.pdb
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.csproj.CopyComplete
+C:\Users\Administrador\Desktop\WEBASPLOGIN\WEBASPLOGIN\obj\Debug\netcoreapp2.2\WEBASPLOGIN.csprojAssemblyReference.cache

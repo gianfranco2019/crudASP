@@ -69,7 +69,7 @@ namespace WEBASPLOGIN.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    if (userAccount.Image != null)
+                    if (Image != null)
                     {
                         foreach (var item in Image)
                         {
